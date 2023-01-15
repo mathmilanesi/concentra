@@ -24,6 +24,7 @@ body .header ul {
 
 body .header ul li {
   display: inline;
+  transform: translateY(-10px);
 }
 
 body .header ul li img{
