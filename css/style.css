@@ -75,15 +75,43 @@ body .container .card:nth-child(5) .box .content a {
 }
 
 body .container .card:nth-child(6) .box .content a {
-  background: #23c162;
+  background: #2196f3;
 }
 
 body .container .card:nth-child(7) .box .content a {
-  background: #c16523;
+  background: #23c162;
 }
 
 body .container .card:nth-child(8) .box .content a {
+  background: #c16523;
+}
+
+body .container .card:nth-child(9) .box .content a {
   background: #23c162;
+}
+
+body .container .card:nth-child(10) .box .content a {
+  background: #c16523;
+}
+
+body .container .card:nth-child(11) .box .content a {
+  background: #c16523;
+}
+
+body .container .card:nth-child(12) .box .content a {
+  background: #c16523;
+}
+
+body .container .card:nth-child(13) .box .content a {
+  background: #23c162;
+}
+
+body .container .card:nth-child(14) .box .content a {
+  background: #23c162;
+}
+
+body .container .card:nth-child(15) .box .content a {
+  background: #c43b3b;
 }
 
 body .container .card .box {
