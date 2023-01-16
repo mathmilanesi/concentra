@@ -111,10 +111,6 @@ body .container .card:nth-child(14) .box .content a {
   background: #23c162;
 }
 
-body .container .card:nth-child(15) .box .content a {
-  background: #c43b3b;
-}
-
 body .container .card .box {
   position: absolute;
   top: 20px;
